@@ -1,0 +1,1681 @@
+ERROR 2023-11-07 10:11:19,746 views Error occurred: Duplicate IRN
+ERROR 2023-11-07 10:12:12,385 views Error occurred: The field Document Number must be a string with a minimum length of 1 and a maximum length of 16.
+ERROR 2023-11-07 10:12:24,030 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:13:01,127 views Error occurred: Duplicate IRN
+ERROR 2023-11-07 10:13:34,292 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:15:56,993 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:16:52,375 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:18:59,310 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:20:05,275 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:25:57,413 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:37:06,186 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:38:00,212 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:41:30,639 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:43:38,598 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:45:40,620 views Error occurred: Invoice is not active
+ERROR 2023-11-07 10:48:16,126 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:03:09,335 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:05:54,843 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:07:06,069 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:09:20,915 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:10:32,962 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:11:24,812 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:18:28,075 views Error occurred: Invoice is not active
+ERROR 2023-11-07 11:22:25,745 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 165, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:22:44,301 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 165, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:23:42,916 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 165, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:24:45,780 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 165, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:25:09,472 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 168, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:26:42,124 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 168, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:27:24,658 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:30:25,378 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:30:45,514 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:31:02,746 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:31:17,598 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:32:20,749 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 191, in post
+    if error_messages:
+UnboundLocalError: local variable 'error_messages' referenced before assignment
+
+ERROR 2023-11-07 11:32:33,332 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 170, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 11:32:55,781 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number.
+ERROR 2023-11-07 11:34:25,994 views Error occurred: 200
+ERROR 2023-11-07 11:36:40,262 views Error occurred: Invoice is not active
+ERROR 2023-11-07 12:07:12,567 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number.
+ERROR 2023-11-07 12:07:12,586 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number.
+ERROR 2023-11-07 12:36:00,096 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 12:36:19,240 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 12:36:52,739 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 169, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-07 12:37:26,652 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 267, in post
+    if error_messages:
+UnboundLocalError: local variable 'error_messages' referenced before assignment
+
+ERROR 2023-11-07 12:37:52,763 views Error occurred: %s
+ERROR 2023-11-07 12:44:25,171 views Error occurred: %s
+ERROR 2023-11-07 12:44:51,491 views Error occurred: %s
+ERROR 2023-11-07 12:45:44,927 views Error occurred: %s
+ERROR 2023-11-08 04:42:20,757 views Error occurred: %s
+ERROR 2023-11-08 04:42:37,909 views Error occurred: %s
+ERROR 2023-11-08 04:42:50,337 views Error occurred: %s
+ERROR 2023-11-08 04:43:35,974 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 04:44:47,693 views Error occurred: %s
+ERROR 2023-11-08 04:46:01,491 views Error occurred: %s
+ERROR 2023-11-08 04:46:41,680 views Error occurred: %s
+ERROR 2023-11-08 04:50:17,730 views Error occurred: %s
+ERROR 2023-11-08 04:50:47,131 views Error occurred: %s
+ERROR 2023-11-08 04:51:05,770 views Error occurred: %s
+ERROR 2023-11-08 04:51:21,567 views Error occurred: %s
+ERROR 2023-11-08 04:51:44,872 views Error occurred: %s
+ERROR 2023-11-08 04:56:02,118 views Error occurred: invalid GSIIN
+ERROR 2023-11-08 04:58:58,637 views Error occurred: Invalid GSIIN
+ERROR 2023-11-08 04:59:10,977 views Error occurred: Subscription
+ERROR 2023-11-08 05:00:51,295 views Error occurred: %s
+ERROR 2023-11-08 05:01:17,387 views Error occurred: %s
+ERROR 2023-11-08 05:01:31,918 views Error occurred: %s
+ERROR 2023-11-08 05:01:58,330 views Error occurred: %s
+ERROR 2023-11-08 05:02:07,886 views Error occurred: %s
+ERROR 2023-11-08 05:02:15,934 views Error occurred: %s
+ERROR 2023-11-08 05:02:32,049 views Error occurred: %s
+ERROR 2023-11-08 05:03:16,131 views Error occurred: %s
+ERROR 2023-11-08 05:03:28,115 views Error occurred: %s
+ERROR 2023-11-08 05:04:01,990 views Error occurred: %s
+ERROR 2023-11-08 05:05:20,845 views Error occurred: %s
+ERROR 2023-11-08 05:05:45,697 views Error occurred: %s
+ERROR 2023-11-08 05:07:20,482 views Error occurred: Invalid GSIIN
+ERROR 2023-11-08 06:15:17,209 views Error occurred: %s
+ERROR 2023-11-08 06:16:27,018 views Error occurred: %s
+ERROR 2023-11-08 06:16:50,711 views Error occurred: %s
+ERROR 2023-11-08 06:26:26,202 views Error occurred: %s
+ERROR 2023-11-08 06:29:21,137 views Error occurred: %s
+ERROR 2023-11-08 06:29:46,037 views Error occurred: %s
+ERROR 2023-11-08 06:30:10,869 views Error occurred: %s
+ERROR 2023-11-08 06:30:41,782 views Error occurred: %s
+ERROR 2023-11-08 06:31:08,262 views Error occurred: %s
+ERROR 2023-11-08 06:31:44,188 views Error occurred: %s
+ERROR 2023-11-08 06:32:24,744 views Error occurred: %s
+ERROR 2023-11-08 06:33:33,163 views Error occurred: %s
+ERROR 2023-11-08 06:34:44,564 views Error occurred: Duplicate IRN
+ERROR 2023-11-08 06:35:03,308 views Error occurred: %s
+ERROR 2023-11-08 06:53:08,197 views Error occurred: %s
+ERROR 2023-11-08 06:53:17,703 views Error occurred: Invoice is not active
+ERROR 2023-11-08 06:53:46,805 views Error occurred: Invoice is not active
+ERROR 2023-11-08 06:54:35,478 views Error occurred: Invoice is not active
+ERROR 2023-11-08 06:54:40,385 views Error occurred: Invoice is not active
+ERROR 2023-11-08 06:55:31,804 views Error occurred: %s
+ERROR 2023-11-08 07:22:06,714 views Error occurred: %sSubscription Error
+ERROR 2023-11-08 07:23:07,103 views Error occurred: %sSubscription Error
+ERROR 2023-11-08 07:24:03,429 views Error occurred: %sSubscription Error
+ERROR 2023-11-08 07:24:23,425 views Error occurred: %sSubscription Error
+ERROR 2023-11-08 07:26:08,537 views Error occurred: %sSubscription Error
+ERROR 2023-11-08 07:27:38,803 views Error occurred: %s
+ERROR 2023-11-08 07:28:21,981 views Error occurred: %s
+ERROR 2023-11-08 07:28:43,481 views Error occurred: %s
+ERROR 2023-11-08 07:28:47,616 views Error occurred: %s
+ERROR 2023-11-08 07:29:17,634 views Error occurred: %s
+ERROR 2023-11-08 07:29:25,972 views Error occurred: %s
+ERROR 2023-11-08 07:29:37,040 views Error occurred: %s
+ERROR 2023-11-08 07:29:51,627 views Error occurred: %s
+ERROR 2023-11-08 07:30:03,770 views Error occurred: %s
+ERROR 2023-11-08 07:30:15,363 views Error occurred: %s
+ERROR 2023-11-08 07:30:44,582 views Error occurred: %s
+ERROR 2023-11-08 07:31:58,147 views Error occurred: %s
+ERROR 2023-11-08 07:32:23,008 views Error occurred: %s
+ERROR 2023-11-08 07:32:32,411 views Error occurred: %s
+ERROR 2023-11-08 07:36:01,985 views Error occurred: %s
+ERROR 2023-11-08 07:36:15,533 views Error occurred: %s
+ERROR 2023-11-08 07:37:23,950 views Error occurred: %s
+ERROR 2023-11-08 07:37:48,782 views Error occurred: %s
+ERROR 2023-11-08 07:40:13,109 views Error occurred: %s
+ERROR 2023-11-08 07:40:34,222 views Error occurred: %s
+ERROR 2023-11-08 07:43:27,154 views Error occurred: %s
+ERROR 2023-11-08 07:43:47,049 views Error occurred: %s
+ERROR 2023-11-08 07:44:39,218 views Error occurred: %s
+ERROR 2023-11-08 07:48:28,002 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 154, in post
+    sellerGstin = data1.get('SellerDtls', {}).get('Gstin')
+AttributeError: 'list' object has no attribute 'get'
+
+ERROR 2023-11-08 07:51:37,290 views Error occurred: %s
+ERROR 2023-11-08 07:52:40,198 views Error occurred: %s
+ERROR 2023-11-08 07:52:55,370 views Error occurred: %s
+ERROR 2023-11-08 07:53:59,056 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 159, in post
+    if gst == i['gst']:
+TypeError: string indices must be integers
+
+ERROR 2023-11-08 07:54:14,438 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 160, in post
+    if gst == i['gst']:
+TypeError: string indices must be integers
+
+ERROR 2023-11-08 07:54:35,867 views Error occurred: %s
+ERROR 2023-11-08 07:55:18,795 views Error occurred: %s
+ERROR 2023-11-08 07:55:59,446 views Error occurred: %s
+ERROR 2023-11-08 09:15:07,966 views Error occurred: %s
+ERROR 2023-11-08 09:15:43,068 views Error occurred: %s
+ERROR 2023-11-08 09:16:00,340 views Error occurred: %s
+ERROR 2023-11-08 09:17:55,495 views Error occurred: %s
+ERROR 2023-11-08 09:18:42,299 views Error occurred: %s
+ERROR 2023-11-08 09:18:54,793 views Error occurred: %s
+ERROR 2023-11-08 09:19:36,801 views Error occurred: %s
+ERROR 2023-11-08 09:20:01,552 views Error occurred: %s
+ERROR 2023-11-08 09:22:32,814 views Error occurred: %s
+ERROR 2023-11-08 09:30:18,512 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 147, in post
+    for item in queryParams.data:
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'UserDetails' object is not iterable
+
+ERROR 2023-11-08 09:30:46,218 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    for item in queryParams.data:
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'UserDetails' object is not iterable
+
+ERROR 2023-11-08 09:30:57,727 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 137, in post
+    print(queryParams.data)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'UserDetails' object is not iterable
+
+ERROR 2023-11-08 09:31:06,290 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 137, in post
+    print(queryParams.data)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'UserDetails' object is not iterable
+
+ERROR 2023-11-08 09:31:40,222 views Error occurred: %s
+ERROR 2023-11-08 09:32:13,345 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 177, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:33:14,554 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 156, in post
+    if gst == item['gst']:
+UnboundLocalError: local variable 'item' referenced before assignment
+
+ERROR 2023-11-08 09:34:14,238 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:34:36,371 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:34:39,940 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:34:55,875 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 177, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:35:06,092 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 177, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:35:25,536 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:35:37,899 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:36:04,183 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:36:08,169 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:36:26,177 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 156, in post
+    if gst == item['gst']:
+UnboundLocalError: local variable 'item' referenced before assignment
+
+ERROR 2023-11-08 09:36:43,221 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 154, in post
+    print(item['gst'])
+UnboundLocalError: local variable 'item' referenced before assignment
+
+ERROR 2023-11-08 09:36:56,299 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 154, in post
+    print(Gstin)
+UnboundLocalError: local variable 'Gstin' referenced before assignment
+
+ERROR 2023-11-08 09:37:02,211 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 154, in post
+    print(Gstin)
+UnboundLocalError: local variable 'Gstin' referenced before assignment
+
+ERROR 2023-11-08 09:38:12,973 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 180, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:38:39,369 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 180, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:38:59,977 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 180, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:39:25,150 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:40:17,395 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 196, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:40:31,684 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 196, in post
+    error_logger.error("Error occurred: %s", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:41:45,802 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = item['gst']
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 09:42:13,925 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = item[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:42:51,198 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 150, in post
+    Gstin = item[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:43:07,995 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 150, in post
+    Gstin = item[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:43:23,456 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 150, in post
+    Gstin = item[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:43:40,466 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 151, in post
+    Gstin = item[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:44:04,187 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 151, in post
+    Gstin = item[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:44:52,159 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 177, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:45:16,477 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:45:37,829 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:46:03,021 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:46:25,442 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:46:37,053 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.get(gst=gst)
+  File "/home/pg/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pg/.local/lib/python3.10/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+e_invoice_app.models.UserDetails.DoesNotExist: UserDetails matching query does not exist.
+
+ERROR 2023-11-08 09:46:41,529 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.get(gst=gst)
+  File "/home/pg/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pg/.local/lib/python3.10/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+e_invoice_app.models.UserDetails.DoesNotExist: UserDetails matching query does not exist.
+
+ERROR 2023-11-08 09:46:52,031 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:47:10,317 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:47:24,038 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 178, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:47:42,265 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:47:50,126 views Error occurred: %s
+ERROR 2023-11-08 09:48:09,916 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:13,651 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:31,805 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst_no)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:35,403 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst_no)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:44,173 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:45,246 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:46,691 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:51,274 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:48:57,480 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:49:01,742 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 136, in post
+    user = UserDetails.objects.all(gst=gst)
+TypeError: BaseManager.all() got an unexpected keyword argument 'gst'
+
+ERROR 2023-11-08 09:49:16,927 views Error occurred: %s
+ERROR 2023-11-08 09:49:48,420 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 151, in post
+    Gstin = item[0]['gst']
+KeyError: 0
+
+ERROR 2023-11-08 09:50:07,088 views Error occurred: %s
+ERROR 2023-11-08 09:50:34,215 views Error occurred: %s
+ERROR 2023-11-08 09:52:23,360 views Error occurred: %s
+ERROR 2023-11-08 09:52:27,566 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:53:22,186 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 09:55:22,910 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams.data['gst'])
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 09:55:36,987 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams.data[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 09:56:13,425 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams.data['gst'])
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 10:02:40,330 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams.data['gst'])
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 10:03:35,312 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams.data['gst'])
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 10:04:08,399 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams['gst'])
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 10:04:21,254 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams['gst'])
+TypeError: list indices must be integers or slices, not str
+
+ERROR 2023-11-08 10:06:36,276 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 10:06:44,550 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 10:14:41,826 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams.data[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:17:24,440 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:22:31,153 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:24:36,761 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:24:39,128 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:25:02,883 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:25:23,685 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 138, in post
+    print(queryParams[0]['gst'])
+IndexError: list index out of range
+
+ERROR 2023-11-08 10:25:23,686 views Error occurred: %s
+ERROR 2023-11-08 10:29:10,755 views Error occurred: %s
+ERROR 2023-11-08 10:29:40,850 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:30:16,690 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:31:01,507 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:32:08,520 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:32:57,032 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:33:04,523 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:33:12,594 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:34:02,951 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 179, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:34:34,572 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 180, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:35:57,188 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:36:25,771 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:37:11,322 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:38:02,625 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:38:06,000 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:39:54,815 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:40:06,683 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:40:18,222 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:41:07,983 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:45:56,230 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:46:25,081 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:56:29,232 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:56:33,879 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 133, in post
+    sellerGstin = data.get('SellerDtls', {}).get('Gstin')
+AttributeError: 'str' object has no attribute 'get'
+
+ERROR 2023-11-08 10:56:44,487 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:57:29,189 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 182, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 10:57:48,471 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 183, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:00:16,915 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:01:02,655 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 177, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 11:01:14,275 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:01:31,328 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:01:41,949 views Error occurred: %s
+ERROR 2023-11-08 11:01:54,452 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:03:56,557 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 64, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 31, in load
+    return json.load(*args, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 179 column 3 (char 4187)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 114, in post
+    data1 = request.data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 216, in data
+    self._load_data_and_files()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 279, in _load_data_and_files
+    self._data, self._files = self._parse()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 354, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 66, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Extra data: line 179 column 3 (char 4187)
+
+ERROR 2023-11-08 11:04:41,057 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 64, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 31, in load
+    return json.load(*args, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 179 column 3 (char 4188)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 114, in post
+    data1 = request.data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 216, in data
+    self._load_data_and_files()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 279, in _load_data_and_files
+    self._data, self._files = self._parse()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 354, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 66, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Expecting ',' delimiter: line 179 column 3 (char 4188)
+
+ERROR 2023-11-08 11:04:51,231 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 181, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:06:44,061 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 176, in post
+    if response_data.status_code == 200:
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-08 11:06:59,482 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 180, in post
+    error_messages = json.loads(decode['status_desc'])
+KeyError: 'status_desc'
+
+ERROR 2023-11-08 11:09:27,750 views Error occurred: Supplier GSTIN state codedoes not match with the state code passed in supplier details
+ERROR 2023-11-08 11:13:02,745 views Error occurred: Duplicate IRN
+ERROR 2023-11-08 11:14:17,513 views Error occurred: Duplicate IRN
+ERROR 2023-11-08 11:14:23,919 views Error occurred: %s
+ERROR 2023-11-08 11:14:23,920 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:14:43,067 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:14:43,067 views Error occurred: %s
+ERROR 2023-11-08 11:15:19,479 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:15:19,480 views Error occurred: %s
+ERROR 2023-11-08 11:15:37,705 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:15:37,705 views Error occurred: %s
+ERROR 2023-11-08 11:17:37,320 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 148, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:17:37,320 views Error occurred: %s
+ERROR 2023-11-08 11:17:44,234 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 159, in post
+    if gst == item['gst']:
+NameError: name 'item' is not defined
+
+ERROR 2023-11-08 11:18:20,775 views Error occurred: Duplicate IRN
+ERROR 2023-11-08 11:18:38,431 views Error occurred: Duplicate IRN
+ERROR 2023-11-08 11:19:05,138 views Error occurred: %s
+ERROR 2023-11-08 11:22:02,933 views Error occurred: The field Document Number must be a string with a minimum length of 1 and a maximum length of 16.
+ERROR 2023-11-08 11:22:41,634 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 134, in post
+    sellerGstin = data.get('SellerDtls', {}).get('Gstin')
+AttributeError: 'str' object has no attribute 'get'
+
+ERROR 2023-11-08 11:22:49,549 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 134, in post
+    sellerGstin = data.get('SellerDtls', {}).get('Gstin')
+AttributeError: 'str' object has no attribute 'get'
+
+ERROR 2023-11-08 11:24:05,720 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 134, in post
+    sellerGstin = data.get('SellerDtls', {}).get('Gstin')
+AttributeError: 'str' object has no attribute 'get'
+
+ERROR 2023-11-08 11:24:16,984 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 134, in post
+    sellerGstin = data.get('SellerDtls', {}).get('Gstin')
+AttributeError: 'str' object has no attribute 'get'
+
+ERROR 2023-11-08 11:26:55,587 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 238, in post
+    error_messages = json.loads(response_value['status_desc'])
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-08 11:28:41,493 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 239, in post
+    error_messages = json.loads(response_value['status_desc'])
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-08 11:29:05,523 views Error occurred: Invoice is not active
+ERROR 2023-11-08 11:29:19,675 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 210, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:29:19,675 views Error occurred: %s
+ERROR 2023-11-08 11:29:27,534 views Error occurred: Invoice is not active
+ERROR 2023-11-08 11:29:43,378 views Error occurred: %s
+ERROR 2023-11-08 11:30:02,574 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 210, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:30:02,575 views Error occurred: %s
+ERROR 2023-11-08 11:30:10,865 views Error occurred: %s
+ERROR 2023-11-08 11:30:35,151 views Error occurred: %s
+ERROR 2023-11-08 11:32:41,432 views Error occurred: %s
+ERROR 2023-11-08 11:35:47,220 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 147, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:35:47,221 views Error occurred: %s
+ERROR 2023-11-08 11:37:53,429 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 147, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:37:53,430 views Error occurred: %s
+ERROR 2023-11-08 11:39:02,957 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 147, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:39:02,958 views Error occurred: %s
+ERROR 2023-11-08 11:51:45,341 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 202, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:51:45,342 views Error occurred: %s
+ERROR 2023-11-08 11:52:02,042 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 202, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-08 11:52:02,042 views Error occurred: %s
+ERROR 2023-11-09 04:30:38,711 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 167, in post
+    error_logger.error("Error occurred: %s",response_data.status_code ,'Subscription Error')
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-09 04:32:08,777 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 167, in post
+    error_logger.error("Error occurred: %s Subscription Error", response_data.status_code)
+UnboundLocalError: local variable 'response_data' referenced before assignment
+
+ERROR 2023-11-09 04:33:08,410 views Error occurred: %s
+ERROR 2023-11-09 04:36:16,435 views Error occurred: Subscription Error
+ERROR 2023-11-09 04:46:22,289 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 144, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-09 04:46:22,290 views Error occurred: %s
+ERROR 2023-11-09 04:46:38,650 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 202, in post
+    Gstin = queryParams[0]['gst']
+IndexError: list index out of range
+
+ERROR 2023-11-09 04:46:38,651 views Error occurred: %s
+ERROR 2023-11-09 04:59:01,054 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number.
+ERROR 2023-11-09 05:03:18,740 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number.
+ERROR 2023-11-09 05:24:31,948 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number.
+ERROR 2023-11-09 06:26:01,407 views Error occurred: Subscription Error
+ERROR 2023-11-09 06:30:26,737 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 167, in post
+    error_logger.error("Error occurred: Subscription Error",status = status.HTTP_400_BAD_REQUEST)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1506, in error
+    self._log(ERROR, msg, args, **kwargs)
+TypeError: Logger._log() got an unexpected keyword argument 'status'
+
+ERROR 2023-11-09 06:38:18,268 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-09 06:38:45,710 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-09 06:49:45,080 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:19:44,613 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:20:37,453 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:20:58,307 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:21:37,213 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:24:19,452 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:25:18,897 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:25:56,762 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:26:33,584 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:33:34,499 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:34:23,263 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:35:24,177 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:35:56,890 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:44:21,833 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:46:53,851 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:47:41,616 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:48:06,771 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:48:52,719 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:50:46,099 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:50:58,019 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 07:57:21,220 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 09:08:17,380 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-09 09:12:08,347 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-09 09:18:17,907 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-22 07:43:48,676 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-22 07:44:33,989 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-22 07:45:04,977 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-22 07:45:24,387 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-22 09:18:31,905 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:18:58,878 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:20:47,241 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:21:09,861 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:23:54,962 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:24:35,755 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:26:05,269 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:26:40,552 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-22 09:26:46,940 views Status Code: 400, Error: Expecting value: line 1 column 1 (char 0)
+ERROR 2023-11-23 12:47:07,154 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-23 12:50:54,112 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-23 12:51:09,884 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-27 07:40:23,523 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 07:40:48,618 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 07:41:20,706 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 07:41:44,175 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 07:42:33,868 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 07:42:47,949 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 07:46:45,944 views Error occurred: Subscription Error - Status Code: 400
+ERROR 2023-11-27 07:47:11,095 views Error occurred: IRN cannot be generated for the document date which is prior to 01/04/2021 - Status Code: 200
+ERROR 2023-11-27 07:48:16,314 views Error occurred: IRN cannot be generated for the document date which is prior to 01/04/2021 - Status Code: 200
+ERROR 2023-11-27 07:48:58,827 views Error occurred: The document date should not be future date . - Status Code: 200
+ERROR 2023-11-27 07:55:00,186 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-27 07:55:38,066 views Error occurred: Contact PG Analytics Team - Status Code: 404
+ERROR 2023-11-27 09:10:40,316 views Error occurred: Contact PG Analytics Team - Status Code: 300
+ERROR 2023-11-27 09:12:19,873 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-27 09:14:40,031 views Error occurred: Contact PG Analytics Team - Status Code: 300
+ERROR 2023-11-27 09:15:19,527 views Error occurred: Contact PG Analytics Team - Status Code: 300
+ERROR 2023-11-27 09:15:51,120 views Error occurred: Contact PG Analytics Team - Status Code: 300
+ERROR 2023-11-27 09:16:04,464 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_invoice_app/views.py", line 170, in post
+    if gst == queryParams[0]['gst']:
+KeyError: 'gst'
+
+ERROR 2023-11-27 09:16:45,866 views Error occurred: IRN is already generated and is cancelled for this Document number. The duplicate IRN cannot be generated for the same  number. - Status Code: 200
+ERROR 2023-11-27 09:48:50,141 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:34:18,637 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:35:58,607 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:36:16,923 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:36:22,220 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:36:39,750 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:37:28,249 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:37:37,991 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 10:37:53,210 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 11:46:11,474 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 12:45:00,427 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 12:46:40,866 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-27 12:48:06,860 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 04:26:39,065 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 04:27:48,977 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 05:22:59,784 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:23:47,434 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 06:25:32,640 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 06:30:35,796 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:31:07,180 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:31:10,853 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:31:20,592 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:31:29,718 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:32:03,702 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:32:41,791 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:32:54,813 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 06:59:30,409 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 09:07:56,903 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 09:57:36,632 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 64, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 31, in load
+    return json.load(*args, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 57 column 1 (char 2220)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 100, in post
+    data1 = request.data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 216, in data
+    self._load_data_and_files()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 279, in _load_data_and_files
+    self._data, self._files = self._parse()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 354, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 66, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Expecting ',' delimiter: line 57 column 1 (char 2220)
+
+ERROR 2023-11-28 09:58:08,057 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 64, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 31, in load
+    return json.load(*args, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 57 column 1 (char 2221)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 100, in post
+    data1 = request.data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 216, in data
+    self._load_data_and_files()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 279, in _load_data_and_files
+    self._data, self._files = self._parse()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 354, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 66, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Expecting ',' delimiter: line 57 column 1 (char 2221)
+
+ERROR 2023-11-28 10:03:47,359 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:05:52,236 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:06:02,041 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:06:12,482 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:06:20,754 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:06:56,504 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:07:51,881 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:09:39,798 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:11:10,255 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 145, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:11:41,800 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:11:45,676 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:12:34,860 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:12:41,677 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:13:21,864 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 146, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:14:23,638 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:15:24,138 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:20:38,497 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:20:42,380 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:20:59,707 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:21:26,781 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    if not json.loads(data_string):
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:21:31,647 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    if not json.loads(data_string):
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:22:08,063 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 147, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:22:54,790 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:23:25,066 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:24:20,753 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:24:26,100 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:24:55,321 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:25:48,300 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:27:13,793 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:28:01,045 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:28:52,946 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:30:07,633 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:33:47,008 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:35:12,910 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:37:17,394 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:38:26,121 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:40:10,489 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:41:14,033 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 146, in post
+    if error_codes_value == '238':
+UnboundLocalError: local variable 'error_codes_value' referenced before assignment
+
+ERROR 2023-11-28 10:41:39,322 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:43:58,279 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 147, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-11-28 10:45:07,792 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 148, in post
+    error_codes_value = parsed_data['errorCodes']
+UnboundLocalError: local variable 'parsed_data' referenced before assignment
+
+ERROR 2023-11-28 10:45:51,093 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 148, in post
+    error_codes_value = parsed_data['error']['errorCodes']
+UnboundLocalError: local variable 'parsed_data' referenced before assignment
+
+ERROR 2023-11-28 10:47:22,941 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:47:50,169 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:48:01,480 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:48:52,708 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 10:49:49,786 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 148, in post
+    error_codes_value = error['errorCodes']
+KeyError: 'errorCodes'
+
+ERROR 2023-11-28 11:07:37,140 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 11:14:19,885 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 11:14:49,709 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-28 12:34:37,290 views Error occurred: Contact PG Analytics Team - Status Code: 200
+ERROR 2023-11-29 05:37:17,087 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 383, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1017, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7eff971d8f40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.mastergst.com', port=443): Max retries exceeded with url: /ewaybillapi/v1.03/ewayapi/getewaybill?email=saravanan@pganalytics.in&ewbNo=321009240520 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7eff971d8f40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 190, in post
+    response = e_way_get_request(email, ewbNo, ip_address, Gstin)
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 69, in e_way_get_request
+    response = requests.get(url, headers=headers)
+  File "/home/pg/.local/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/pg/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/pg/.local/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/pg/.local/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/pg/.local/lib/python3.10/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.mastergst.com', port=443): Max retries exceeded with url: /ewaybillapi/v1.03/ewayapi/getewaybill?email=saravanan@pganalytics.in&ewbNo=321009240520 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7eff971d8f40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+ERROR 2023-12-11 07:50:38,954 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 64, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 31, in load
+    return json.load(*args, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 52 column 1 (char 1164)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 99, in post
+    data1 = request.data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 216, in data
+    self._load_data_and_files()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 279, in _load_data_and_files
+    self._data, self._files = self._parse()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 354, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 66, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Expecting property name enclosed in double quotes: line 52 column 1 (char 1164)
+
+ERROR 2023-12-11 07:51:44,972 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 64, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/utils/json.py", line 31, in load
+    return json.load(*args, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.10/json/__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 52 column 1 (char 1161)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 99, in post
+    data1 = request.data
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 216, in data
+    self._load_data_and_files()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 279, in _load_data_and_files
+    self._data, self._files = self._parse()
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/request.py", line 354, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+  File "/home/pg/.local/lib/python3.10/site-packages/rest_framework/parsers.py", line 66, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Expecting property name enclosed in double quotes: line 52 column 1 (char 1161)
+
+ERROR 2023-12-11 07:52:00,183 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 143, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 07:52:52,740 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 143, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 07:53:36,727 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 07:56:40,188 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 07:57:30,585 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 07:59:16,937 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 08:00:05,579 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 08:00:31,087 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+ERROR 2023-12-11 08:04:05,937 views An unhandled exception occurred: Traceback (most recent call last):
+  File "/home/pg/Documents/local GIt Projects/E-Invoicing_Portal-Backend/e_way_bill/views.py", line 144, in post
+    parsed_data = json.loads(data_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
